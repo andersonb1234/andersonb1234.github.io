@@ -2,5 +2,5 @@
 	color: white;
 	font-size: 20px;
 @@ -32,7 +40,4 @@ h2 {
-	background-image: url(../images/photo.jpg);
+	background-image: url(githubsite/images/photo.jpg);
 	background-size: 100%;
